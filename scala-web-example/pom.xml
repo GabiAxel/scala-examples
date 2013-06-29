@@ -38,11 +38,6 @@
 			<version>0.6.8</version>
 		</dependency>
 		<dependency>
-			<groupId>net.databinder</groupId>
-			<artifactId>unfiltered-json_2.10</artifactId>
-			<version>0.6.7</version>
-		</dependency>
-		<dependency>
 			<groupId>io.argonaut</groupId>
 			<artifactId>argonaut-unfiltered_2.10</artifactId>
 			<version>6.0-RC3</version>

@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.google.common.collect.ImmutableMap;
 
 @Controller
-@RequestMapping
 public class SpringController {
 
 	@ResponseBody
